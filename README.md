@@ -3,6 +3,12 @@
 Text Generation using LSTM Architecture
 
 [![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fprakashsellathurai%2FAuto-Content-Generation%2Fbadge%3Fref%3Dmaster&style=flat)](https://actions-badge.atrox.dev/prakashsellathurai/Auto-Content-Generation/goto?ref=master)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fprakashsellathurai.github.io%2FAuto-Content-Generation%2F)
+
+---
+## Demo
+
+[see the live demo  here!](https://prakashsellathurai.github.io/Auto-Content-Generation/)
 
 ---
 ## Requirements
