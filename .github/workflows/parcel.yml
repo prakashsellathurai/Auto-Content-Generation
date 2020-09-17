@@ -2,7 +2,8 @@
 name: Node CI
 
 on: [push, pull_request] # Run on Push and Pull Requests
-
+branches:
+  - master
 jobs:
   build:
 
