@@ -1,8 +1,10 @@
 # .github/workflows/nodejs.yml
 name: Node CI
 
-on: [push, pull_request] # Run on Push and Pull Requests
-
+on:
+  push:
+    branches:
+      - master
 jobs:
   build:
 
